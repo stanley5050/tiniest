@@ -1,2 +1,2 @@
 # tiniest
-Tiniest PHP Framework
+tiniest php library code
